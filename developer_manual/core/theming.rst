@@ -86,7 +86,7 @@ Figure out the path of the old logo
 
 Replace the old picture, which position you found out as described under 1.3. by adding an extension in case you want to re-use it later.
 
-Creating an own logo
+Creating your own logo
 ^^^^^^^^^^^^^^^^^^^^
 
 If you want to do a quick exchange like (1) it's important to know the size of the picture before you start creating an own logo:
